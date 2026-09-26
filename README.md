@@ -1,4 +1,4 @@
-# Il2Cpp Self‑Dumper
+# Il2Cpp Self‑Dumper.
 
 ## 📖 Overview
 
